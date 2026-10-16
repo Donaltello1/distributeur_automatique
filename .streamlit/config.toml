@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#D97757"
+backgroundColor = "#F5F4ED"
+secondaryBackgroundColor = "#EDEADF"
+textColor = "#141413"
+borderColor = "#E3DFD0"
+baseRadius = "0.75rem"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+headless = true
